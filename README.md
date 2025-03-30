@@ -153,7 +153,8 @@
 
 **Poly Lens**（现隶属HP）同样提供类似的云平台，可管理Poly全系列耳机、扬声器和视频设备。它能够**实时监控**设备状态并给出色标警示，例如某会议室的耳机掉线或电量过低时平台会高亮提示，方便及时处理 ([Jabra + |  Enhance Your Audio Experience with Advanced Software Solutions](https://www.jabra.com/software-and-services/jabra-plus#:~:text=Real))。Poly Lens还具备**策略下发**功能，企业可以制定统一的音频策略（如限制最大音量、防止听力损伤，或统一启用会议语音提示），一键应用到所有设备，确保合规和用户体验一致。另外在故障诊断方面，云平台可以收集每次通话的音频参数（丢包率、噪声水平等），当用户抱怨通话质量时，IT人员能够通过日志快速判断是网络原因还是用户端设备原因，从而有针对性地解决问题。
 
-通过云端配置与诊断，企业能够实现对耳机**全生命周期的精细管理**：从集中采购、部署初始化配置，到日常监控维护、最后的报废更替，都有数据支持的决策依据。这种能力在大规模远程办公时代尤为重要——无论员工身处何地，IT部门都能像管理本地设备一样支持他们的耳机使用。例如**Dell**也与厂商合作，使其Dell Peripheral Manager能够识别管理Dell Pro系列耳机，并计划在2024年前后将耳机管理整合进Dell统一端点管理平台 ([](https://23615341.fs1.hubspotusercontent-na1.net/hubfs/23615341/Resources%20All%20-%20IC/PDF/dell-optimizer-frequently-asked-questions.pdf#:~:text=Any%20visibility%20on%20the%20possibility,week%20to%20analyze%20battery%20usage))。可以预见，耳机的云管理将逐渐融入企业IT管理的主流框架，成为数字化办公设备管理不可或缺的一环。
+通过云端配置与诊断，企业能够实现对耳机**全生命周期的精细管理**：从集中采购、部署初始化配置，到日常监控维护、最后的报废更替，都有数据支持的决策依据。这种能力在大规模远程办公时代尤为重要——无论员工身处何地，IT部门都能像管理本地设备一样支持他们的耳机使用。例如**Dell**也与厂商合作，使其Dell Peripheral Manager能够识别管理Dell Pro系列耳机，并计划在2024年前后将耳机管理整合进Dell统一端点管理平台 ([Dell Optimizer
+Frequently Asked Questions](https://23615341.fs1.hubspotusercontent-na1.net/hubfs/23615341/Resources%20All%20-%20IC/PDF/dell-optimizer-frequently-asked-questions.pdf#:~:text=Any%20visibility%20on%20the%20possibility,week%20to%20analyze%20battery%20usage))。可以预见，耳机的云管理将逐渐融入企业IT管理的主流框架，成为数字化办公设备管理不可或缺的一环。
 
 通过集中管理，企业不仅降低了支持成本，也提升了终端用户的满意度——员工无需为配置或故障奔波，自身的耳机总是最优化配置且良好运行，由此专注于核心工作。本质上，云管理让**耳机这种分散的设备变得集中可视**、可管可控，标志着企业级耳机解决方案进入了一个成熟阶段。
 
